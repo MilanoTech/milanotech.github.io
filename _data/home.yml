@@ -54,16 +54,16 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+#  - title: abhinav's homepage
+#   url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Twitter
+    url: 
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Meet Devs
+    url: https://github.com/harrycodeswhileworldsleeps
 
-  - title: feed
+  - title: Feed
     url: feed.xml
 
 misc_entries:

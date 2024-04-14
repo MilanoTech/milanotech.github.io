@@ -16,8 +16,10 @@ project_entries:
   - title: Datasource in BW with ODP functionalities 
     url: hyperion-dataflow-with-warehousing
     desc: Look at the difference between RSA7 and ODQ with this interactive guide and project
-    
 
+  - title: Web LMS implementation using SAC Boardrooms
+    url: 
+    desc: You have multiple sites where your education content is hosted and need a proper destination for students
 
 old_project_entries:
   - title: Soopr

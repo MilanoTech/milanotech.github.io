@@ -14,9 +14,9 @@ project_entries:
     desc: Read how founders of Milano have worked on Inventory Projections Insight 
 
   - title: Datasource in BW with ODP functionalities 
-    url: overview-post
+    url: hyperion-dataflow-with-warehousing
     desc: Look at the difference between RSA7 and ODQ with this interactive guide and project
-    highlight: WIP
+    
 
 
 old_project_entries:

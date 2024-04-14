@@ -51,11 +51,6 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
-  - title: Unleash the Power of Your Data with MilanoTech: Transform Insights into Action
-    url: false
-
-  - title: MilanoTech: Your Data-Driven Success Partner
-    url: false
     
   - title: moonwalk on the Internet
     url: false

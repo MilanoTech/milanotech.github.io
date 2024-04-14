@@ -22,23 +22,23 @@ project_entries:
     desc: You have multiple sites where your education content is hosted and need a proper destination for students
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: SAP Business Suite
+    url: https://www.sap.com/india/products/technology-platform/bi-platform.html
+    desc: We have experience in supporting SAP Business Suite at Fortune 500 companies. Need support ? Contact us !
+    highlight: Speciality
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Qlik Products
+    url: https://www.qlik.com/us
+    desc: Avid consultants for QlikSense and QlikView, integration of drivers from SAP. 
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
+  - title: Microsft Power Platform
+    url: https://www.microsoft.com/en-in/power-platform/?ef_id=_k_CjwKCAjw_e2wBhAEEiwAyFFFo_Q5_3Y7OncLaDSzaN5XB1a1L_K3FkmbjZjlT8hHDHX3ICAaBW45VhoCDDQQAvD_BwE_k_&OCID=AIDcmm989wn4gn_SEM__k_CjwKCAjw_e2wBhAEEiwAyFFFo_Q5_3Y7OncLaDSzaN5XB1a1L_K3FkmbjZjlT8hHDHX3ICAaBW45VhoCDDQQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw_e2wBhAEEiwAyFFFo_Q5_3Y7OncLaDSzaN5XB1a1L_K3FkmbjZjlT8hHDHX3ICAaBW45VhoCDDQQAvD_BwE
+    desc: from MS Power BI to automation using AI tools, we have got you covered 
+    
+  - title: SAP Netweaver and AMDP / ABAP 
+    url: https://www.sap.com/india/products/technology-platform/netweaver.html
+    desc: We also help to fuel your SAP journey in few chosen modules !
+    
 footer_entries:
 #  - title: abhinav's homepage
 #   url: https://www.abhinav.co

@@ -9,31 +9,14 @@ navbar_entries:
     url: 
 
 project_entries:
-  - title: Project 1
+  - title: Global Inventory Projections
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Read how founders of Milano have worked on Inventory Projections Insight 
 
-  - title: Project 2
-    url: overview-post-2
-    desc: harsh test
-
-  - title: Project 3
+  - title: Datasource in BW with ODP functionalities 
     url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Look at the difference between RSA7 and ODQ with this interactive guide and project
     highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 
 old_project_entries:
@@ -68,19 +51,16 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
-  - title: this is an example vertical list
+  - title: Unleash the Power of Your Data with MilanoTech: Transform Insights into Action
     url: false
 
-  - title: you can show or hide using a boolean flag in _config.yml
+  - title: MilanoTech: Your Data-Driven Success Partner
     url: false
 
-  - title: and you can add data in _data/home.yml
+  - title: In today's data-rich world, valuable insights are buried deep within your information. 
+           MilanoTech unlocks this potential, transforming raw data into actionable strategies that fuel your business growth.
     url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
+    
   - title: moonwalk on the Internet
     url: false
     entries:

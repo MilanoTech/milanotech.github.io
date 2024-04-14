@@ -35,7 +35,7 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-blogs:
+blog:
   - title: SAP BW Practice at MilanoTech
 
 old_project_entries:

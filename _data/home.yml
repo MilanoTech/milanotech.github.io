@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Global Inventory Projections
-    url: Global Inventory Data Case Study
+    url: global-inventory-data-case-study
     desc: Read how founders of Milano have worked on Inventory Projections Insight 
 
   - title: Datasource in BW with ODP functionalities 

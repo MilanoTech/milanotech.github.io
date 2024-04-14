@@ -14,8 +14,8 @@ project_entries:
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+    url: overview-post-2
+    desc: harsh test
 
   - title: Project 3
     url: overview-post

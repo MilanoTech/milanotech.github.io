@@ -1,3 +1,10 @@
+---
+layout: post
+author: Harsh Sharma
+tags: [Open Source, Consulting, IT, Milano Tech]
+---
+
+
 ## Is Your Data Locked in a Silo? Unleash Its Potential with Open-Source Solutions
 
 In today's data-driven world, businesses are drowning in information. But are they truly **swimming** in insights? Often, the answer is a resounding no. Traditional data tools can be expensive, inflexible, and leave you with stagnant results.  **What if there was a way to unlock the hidden potential of your data, without breaking the bank?**

@@ -42,4 +42,4 @@ We at MilanoTech can help you implement a version control system like Git.  Thin
 
 **Ready to Stitch Up Your Data Woes?**
 
-By following these best practices, along with the helping hand of MilanoTech, you can ensure your Fabric environment is secure, adaptable, and easy to manage.  Think of us as
+By following these best practices, along with the helping hand of MilanoTech, you can ensure your Fabric environment is secure, adaptable, and easy to manage.

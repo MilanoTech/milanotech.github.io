@@ -6,6 +6,9 @@ tags: [Microsoft Fabric, OneLake, Lakehouse, Milano Tech]
 
 ## Don't Let Your Data Become a Tangled Mess: Mastering Microsoft Fabric with MilanoTech
 
+![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/664c10d9-8e40-4996-95ff-98fe578c2cd2)
+
+
 Do you ever feel like your data resembles a tangled mess of yarn, a chaotic fabric of information with no clear pattern? Fear not, data wranglers!  Microsoft Fabric might be the very needle and thread you've been searching for. But wielding this powerful tool requires some know-how, and that's where MilanoTech steps in. 
 
 We're your data wranglers extraordinaire, here to untangle the best practices for Microsoft Fabric and show you how to use it like a seasoned pro.  Imagine transforming your data from a tangled mess into a beautifully woven tapestry, revealing insights that can propel your business forward!

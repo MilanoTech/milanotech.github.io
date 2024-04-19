@@ -1,4 +1,8 @@
-
+---
+layout: post
+author: Harsh Sharma
+tags: [MilanoTech, Certifications, IT, Best Practices, Data Infrastructure]
+---
 
 ## MilanoTech: Unlocking Hidden Gems - How We Build High-Performing Data Teams That Deliver Results
 

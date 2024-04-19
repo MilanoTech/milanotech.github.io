@@ -22,8 +22,13 @@ project_entries:
     desc: You have multiple sites where your education content is hosted and need a proper destination for students
 
   - title: Alteryx and Tidal Automation Symphony
-    url: data-mining-and-story-telling-for-fun-learning
+    url: 
     desc: Automating your alteryx flows with JIL tools easily
+
+  - title: SAP Business One for Small / Medium Ventures
+    url: coffee-shop-sap-business-one-project
+    desc: Gone are the days where SAP was only meant for big enterprises, now unlock your ability with chosen products instead of whole suite under SAP business one
+    
 
 
 old_project_entries:

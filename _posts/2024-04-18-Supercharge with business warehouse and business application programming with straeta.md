@@ -1,17 +1,17 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [SAP BW, SAP ABAP, Milano Tech]
+tags: [SAP BW, SAP ABAP, Straeta]
 ---
 
-## Unlocking the Power of Your Data: SAP BW and ABAP Expertise at MilanoTech
+## Unlocking the Power of Your Data: SAP BW and ABAP Expertise at Straeta
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/3171fec1-12a4-4881-ba52-9e979e48723d)
+![image](https://github.com/Straeta/Straeta.github.io/assets/166930479/3171fec1-12a4-4881-ba52-9e979e48723d)
 
 
 In today's data-driven world, businesses need robust solutions to manage, analyze, and leverage their ever-growing information.  That's where SAP Business Warehouse (BW) and ABAP come in – a powerful duo for building a data warehouse foundation for informed decision-making. 
 
-At MilanoTech, we are your trusted partner for all things SAP BW and ABAP. We offer a comprehensive suite of services designed to help you unlock the full potential of your data and transform it into actionable insights.
+At Straeta, we are your trusted partner for all things SAP BW and ABAP. We offer a comprehensive suite of services designed to help you unlock the full potential of your data and transform it into actionable insights.
 
 **Demystifying SAP BW: Your Data Warehouse Powerhouse**
 
@@ -31,9 +31,9 @@ ABAP, or Advanced Business Application Programming, is the backbone of SAP BW cu
 * **Automated Processes:**  Streamline data management tasks by automating data extraction, transformation, and loading processes with ABAP.
 * **User-Defined Functions:**  Create custom functions in ABAP to extend the functionalities of SAP BW and cater to your unique business requirements.
 
-**Why Choose MilanoTech for Your SAP BW and ABAP Needs?**
+**Why Choose Straeta for Your SAP BW and ABAP Needs?**
 
-At MilanoTech, we have a team of seasoned SAP BW and ABAP consultants with extensive experience in various industries. We offer a complete range of services, including:
+At Straeta, we have a team of seasoned SAP BW and ABAP consultants with extensive experience in various industries. We offer a complete range of services, including:
 
 * **SAP BW Implementation and Configuration:**  We'll help you design, build, and configure your SAP BW environment to meet your specific data warehousing needs.
 * **Data Modeling and ETL Development:**  Our experts will design a robust data model and develop efficient data extraction, transformation, and loading (ETL) processes.
@@ -43,6 +43,6 @@ At MilanoTech, we have a team of seasoned SAP BW and ABAP consultants with exten
 
 **Unlocking Your Data's Potential**
 
-With MilanoTech's expertise in SAP BW and ABAP, you can transform your data into a powerful asset, driving better decision-making, optimizing operations, and gaining a competitive edge. 
+With Straeta's expertise in SAP BW and ABAP, you can transform your data into a powerful asset, driving better decision-making, optimizing operations, and gaining a competitive edge. 
 
-**Ready to unlock the true potential of your data?  Contact MilanoTech today and let's discuss how our SAP BW and ABAP expertise can help your business thrive!**
+**Ready to unlock the true potential of your data?  Contact Straeta today and let's discuss how our SAP BW and ABAP expertise can help your business thrive!**

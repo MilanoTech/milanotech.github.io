@@ -1,12 +1,12 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [SAP Business One, Small Businesses, ERP, Milano Tech]
+tags: [SAP Business One, Small Businesses, ERP, Straeta]
 ---
 
 ## Case Study: Coffee Shop Brews Up Success with SAP Business One
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/3079069f-9915-4f59-bc12-5f931e54c603)
+![image](https://github.com/Straeta/Straeta.github.io/assets/166930479/3079069f-9915-4f59-bc12-5f931e54c603)
 
 
 **Introduction:**

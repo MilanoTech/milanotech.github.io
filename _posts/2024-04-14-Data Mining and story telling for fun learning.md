@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [SAP BW, EduTech, Milano Tech, Learning Management, Educators]
+tags: [SAP BW, EduTech, Straeta, Learning Management, Educators]
 ---
 ## Case Study: Empowering Student Learning with Data-Driven Insights for a Leading Educational Resource Provider
 ### Challenge:

@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Global Inventory Projections
     url: global-inventory-data-case-study
-    desc: Read how founders of Milano have worked on Inventory Projections Insight 
+    desc: Read how founders of Straeta have worked on Inventory Projections Insight 
 
   - title: Datasource in BW with ODP functionalities 
     url: hyperion-dataflow-with-warehousing

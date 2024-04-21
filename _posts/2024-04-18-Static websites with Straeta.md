@@ -1,12 +1,12 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [Static Websites, No Database, Jekyll, Hugo, Milano Tech]
+tags: [Static Websites, No Database, Jekyll, Hugo, Straeta]
 ---
 
 ## Ditch the Drama: Why Static Websites Are the New Powerhouse for Modern Businesses
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/9b99bab3-b090-4b73-a7b4-2e7323bc0e1a)
+![image](https://github.com/Straeta/Straeta.github.io/assets/166930479/9b99bab3-b090-4b73-a7b4-2e7323bc0e1a)
 
 
 In the fast-paced world of web development, the traditional approach of dynamic websites –  reliant on complex databases and server-side scripting – can feel clunky and outdated. Enter the sleek and efficient alternative: static websites. 
@@ -32,9 +32,9 @@ Static websites aren't a one-size-fits-all solution.  Here are some things to co
 * **Dynamic Content Needs:**  If your website requires frequent updates or user interaction (e.g., e-commerce stores, membership sites), a dynamic website might be a better fit.
 * **SEO Considerations:**   Static websites can be optimized for search engines, but it might require a different approach compared to dynamic websites. 
 
-**MilanoTech: Your Static Website Specialists**
+**Straeta: Your Static Website Specialists**
 
-Even with a static website, building a powerful online presence requires strategic planning and expert execution. At MilanoTech, we can help you leverage the power of static websites to achieve your business goals.  We offer:
+Even with a static website, building a powerful online presence requires strategic planning and expert execution. At Straeta, we can help you leverage the power of static websites to achieve your business goals.  We offer:
 
 * **Strategic Planning:**  We'll work closely with you to understand your needs and tailor a static website solution that perfectly aligns with your business objectives.
 * **Content Creation and Optimization:**  Engaging content is key to any website. Our team can craft compelling content tailored for static websites and optimized for search engines.
@@ -45,4 +45,4 @@ Even with a static website, building a powerful online presence requires strateg
 
 In today's fast-paced digital world, speed, security, and cost-effectiveness are more important than ever. Static websites offer a powerful alternative to traditional dynamic websites, delivering a user-friendly and secure online experience without the complexity.  
 
-**Contact MilanoTech today and let's explore how a static website can empower your business to thrive in the digital age!** 
+**Contact Straeta today and let's explore how a static website can empower your business to thrive in the digital age!** 

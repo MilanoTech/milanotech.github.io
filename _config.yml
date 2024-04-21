@@ -4,8 +4,8 @@ author: Straeta
 description: > # description of the site (multiple lines allowed)
   Straeta is a Delhi based startup which focuses on Data Science and Data analytics. 
   It helps clients to focus on their data journey and also provides services and mentorship to aspiring data professionals. 
-  If you have any doubts regarding your infrastructure and data mining, contact Milano , cause
-  Milano Gives Your Raw Data Wiings !!
+  If you have any doubts regarding your infrastructure and data mining, contact Straeta , cause
+  Straeta Gives Your Raw Data Wiings !!
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon

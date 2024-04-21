@@ -10,9 +10,9 @@ A leading provider of educational resources sought to personalize the learning e
 
 ### Solution:
 
-MilanoTech, a data consultancy specializing in business intelligence, partnered with the educational resource provider to leverage data mining and storytelling for improved student learning outcomes.  We implemented a strategic solution using SAP Analytics Cloud (SAC) to transform their scattered data into actionable insights.
+Straeta, a data consultancy specializing in business intelligence, partnered with the educational resource provider to leverage data mining and storytelling for improved student learning outcomes.  We implemented a strategic solution using SAP Analytics Cloud (SAC) to transform their scattered data into actionable insights.
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/741cef1e-8dd6-4d2f-81c6-825fa402ff06)
+![image](https://github.com/Straeta/Straeta.github.io/assets/166930479/741cef1e-8dd6-4d2f-81c6-825fa402ff06)
 
 
 #### Data Mining Process:
@@ -45,6 +45,6 @@ With the data foundation established, we leveraged the power of SAC to create in
 
 ### Conclusion:
 
-MilanoTech's data mining expertise and SAC implementation capabilities empowered the educational resource provider to transform their scattered data into actionable insights. This data-driven approach fosters a personalized learning environment, optimizes content development, and ultimately contributes to improved student learning outcomes.
+Straeta's data mining expertise and SAC implementation capabilities empowered the educational resource provider to transform their scattered data into actionable insights. This data-driven approach fosters a personalized learning environment, optimizes content development, and ultimately contributes to improved student learning outcomes.
 
-Ready to transform your educational content delivery with data analytics? Contact MilanoTech today for a free consultation!
+Ready to transform your educational content delivery with data analytics? Contact Straeta today for a free consultation!

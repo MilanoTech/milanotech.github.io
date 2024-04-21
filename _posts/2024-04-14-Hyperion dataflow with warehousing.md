@@ -1,16 +1,16 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [SAP BW, Milano Tech, Hyperion, ODQ, RSA7]
+tags: [SAP BW, Straeta, Hyperion, ODQ, RSA7]
 ---
 
-## Case Study: Ditching the Data Delays: How MilanoTech Streamlined Financial Reporting with a BW to ODP Power Move
+## Case Study: Ditching the Data Delays: How Straeta Streamlined Financial Reporting with a BW to ODP Power Move
 
 Imagine this: you're a financial whiz at a top company, but your fancy reporting software (HFM) is being held hostage by clunky data pipelines in your SAP BW environment. Manual data extraction and siloed information are slowing you down like molasses in January. Sounds like a recipe for frustrated sighs and missed deadlines.
 
-That's where MilanoTech swoops in, cape and all. We recently partnered with a leading company facing this exact data dilemma. Their HFM consolidation process was bogged down by inefficient data management in SAP BW.
+That's where Straeta swoops in, cape and all. We recently partnered with a leading company facing this exact data dilemma. Their HFM consolidation process was bogged down by inefficient data management in SAP BW.
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/f574ea0c-4fa6-411e-83e9-bedeb7a9f248)
+![image](https://github.com/Straeta/Straeta.github.io/assets/166930479/f574ea0c-4fa6-411e-83e9-bedeb7a9f248)
 
 
 ### The Challenge: Data Delays Derailing Decisions
@@ -53,7 +53,7 @@ By migrating critical datasources from BW to ODP, we delivered a strategic solut
 
 3. Improved data governance: Data quality and consistency are enhanced with ODP's centralized data management approach. It's like having a well-organized filing system for your financial data.
 
-4. Ready to ditch the data delays and unlock the power of efficient financial reporting? Contact MilanoTech today for a free consultation! Let's make your financial data flow like a dream.
+4. Ready to ditch the data delays and unlock the power of efficient financial reporting? Contact Straeta today for a free consultation! Let's make your financial data flow like a dream.
 
 ### Head-to-Head: RSA7 vs. ODP
 
@@ -61,5 +61,5 @@ While both RSA7 and ODP play a role in data management within SAP, they have dis
 
 RSA7 (BW Delta Queue): This is the traditional delta queue used within SAP BW. It manages data changes for datasources within the BW environment. Think of it as a staging area specifically for BW data transfers.  However, RSA7 can be complex to configure and requires additional steps for data transformation and transfer to external systems.
 
-Ready to ditch the data delays and unlock the power of efficient financial reporting? Contact MilanoTech today for a free consultation! Let's make your financial data flow like a dream.
+Ready to ditch the data delays and unlock the power of efficient financial reporting? Contact Straeta today for a free consultation! Let's make your financial data flow like a dream.
 

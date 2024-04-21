@@ -1,13 +1,13 @@
 ---
 layout: post
 author: Harsh Sharma
-tags: [Open Source, Consulting, IT, Milano Tech]
+tags: [Open Source, Consulting, IT, Straeta]
 ---
 
 
 ## Is Your Data Locked in a Silo? Unleash Its Potential with Open-Source Solutions
 
-![image](https://github.com/MilanoTech/milanotech.github.io/assets/166930479/1ab4a2fa-6e2a-4959-8df3-6c479d7be08c)
+![image](https://github.com/StraetaTech/Straetatech.github.io/assets/166930479/1ab4a2fa-6e2a-4959-8df3-6c479d7be08c)
 
 
 In today's data-driven world, businesses are drowning in information. But are they truly **swimming** in insights? Often, the answer is a resounding no. Traditional data tools can be expensive, inflexible, and leave you with stagnant results.  **What if there was a way to unlock the hidden potential of your data, without breaking the bank?**
@@ -24,16 +24,16 @@ Enter the world of open-source data tools. These powerful solutions offer a comp
 
 * **Innovation and Future-Proofing: Stay Ahead of the Game.**  Open-source development is fueled by a passionate community constantly pushing boundaries. This translates to continuous innovation and feature updates. By choosing open-source, you're aligning yourself with a future-proof solution that keeps pace with the ever-evolving data landscape. 
 
-**MilanoTech: Your Trusted Open-Source Data Partner**
+**StraetaTech: Your Trusted Open-Source Data Partner**
 
-At MilanoTech, we understand that open-source isn't a one-size-fits-all solution. We believe in the power of open-source tools, but we also recognize the importance of a tailored approach.  Our team of data specialists will work closely with you to:
+At StraetaTech, we understand that open-source isn't a one-size-fits-all solution. We believe in the power of open-source tools, but we also recognize the importance of a tailored approach.  Our team of data specialists will work closely with you to:
 
 * **Assess Your Needs:** We'll take the time to understand your specific data challenges and business goals. 
 * **Craft a Customized Solution:**  We'll build a unique open-source data toolkit that seamlessly integrates with your existing systems and scales with your future growth. 
 * **Empower Your Team:** We'll provide training and support to ensure your team can leverage the power of open-source tools to its fullest potential.
 
-**Stop settling for stagnant data and sky-high costs.** Let MilanoTech be your guide on this journey. We'll help you unlock the true potential of your data with open-source solutions, empowering you to make data-driven decisions that propel your business forward. 
+**Stop settling for stagnant data and sky-high costs.** Let StraetaTech be your guide on this journey. We'll help you unlock the true potential of your data with open-source solutions, empowering you to make data-driven decisions that propel your business forward. 
 
-**Ready to unleash the power of your data?**  Contact MilanoTech today for a free consultation.  Explore how open-source solutions can transform your business and unlock a world of data-driven insights.
+**Ready to unleash the power of your data?**  Contact StraetaTech today for a free consultation.  Explore how open-source solutions can transform your business and unlock a world of data-driven insights.
 
 **P.S.**  Do you have questions about open-source data tools or how they can benefit your business?  Our data specialists are eager to chat!  Don't hesitate to reach out and explore the possibilities together. We're confident that open-source can be the key to unlocking the hidden potential within your data. 
